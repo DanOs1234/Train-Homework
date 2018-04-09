@@ -1,0 +1,16 @@
+body {
+    background: black;
+    color: red;
+    box-shadow: white;
+}
+
+panel {
+    background: black;
+    color: red;
+    box-shadow: white;
+}
+
+add-train-btn {
+    background:white;
+    color: red;
+}
